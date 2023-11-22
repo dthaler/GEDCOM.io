@@ -65,9 +65,6 @@ substructures:
 
 superstructures:
   "https://gedcom.io/terms/v7/record-INDI": "{0:M}"
-
-value of:
-  - "https://gedcom.io/terms/v7/enumset-EVENATTR"
 ...
 
 ```
